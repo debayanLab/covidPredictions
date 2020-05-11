@@ -13,4 +13,6 @@ Progression: https://www.overleaf.com/6458928194ysdvkmsjscvy
 
 Google Sheets (Partially Completed) May 1 onwards: https://docs.google.com/spreadsheets/d/1B3bb5VIGck6ajL2kfXa35SntA4NrKK2pp-j5X8WnggA/edit?usp=sharing
 
+Google Sheets made to track CFR fluctuations (compiled till May 10th) : https://docs.google.com/spreadsheets/d/1OijyFvOldjteY_3OFgU1Rr_azDGOhm0Zk2rjbDoKvWE/edit?usp=sharing
+
 Deaths using Active Cases is surprisingly related using a quadratic with a Rsq of 0.998 ...
