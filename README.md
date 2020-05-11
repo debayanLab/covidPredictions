@@ -17,7 +17,7 @@ Google Sheets made to track CFR fluctuations (compiled till May 10th) : https://
 
 A simple back-calculation example : https://www.telegraphindia.com/india/coronavirus-outbreak-what-the-numbers-reveal/cid/1771525#.XrYWo77Qbsg.facebook
 
-All data from https://ourworldindata.org/
+All data from https://ourworldindata.org/coronavirus
 
 An article very similar to our CFR paper : https://science.thewire.in/the-sciences/covid-19-pandemic-case-fatality-rate-calculation/
 
