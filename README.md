@@ -3,6 +3,7 @@
 Overleaf
 
 National Prediction:https://www.overleaf.com/project/5ea933d883635f0001df191a
+All training data from covid19india.org and verification data from worldometer.
 
 
 CFR: https://www.overleaf.com/read/pfphkdmywshd
