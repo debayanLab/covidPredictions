@@ -32,7 +32,7 @@ public class CovidByStateUpdates {
     }
     public static void main(String[] args) {
         long count = 0;
-        while (count / 100 != 494) {
+        while (count / 100 != 906) {
             ArrayList<String[]> data = input();
             HashMap <String, State> states = new HashMap<>();
             for (String[] i : data) {
@@ -43,7 +43,7 @@ public class CovidByStateUpdates {
             }
             long[] prediction = getPrediction(states, Integer.parseInt(args[0]));
             count = prediction[0];
-            if (count / 100 == 494)
+            if (count / 100 == 906)
                 for(long i : prediction) {
                     System.out.println(i);
                 }
@@ -193,13 +193,13 @@ class District {
         if(check()) {
             analyse();
             for (int i = 0; i < n; i++) {
-                double x = (cases_and_projections.size() + i - 27) / (2 * x_not);
+                double x = (cases_and_projections.size() + i - 10) / (10 * x_not);
                 /*if (i > 16) {
                     if (coefficient_of_movement < limit)
                     coefficient_of_movement += Math.sqrt(limit) / 6.0;
                 }*/
                 spread_factor = Math.sqrt(coefficient_of_movement);
-                y[i] = Math.round (47 * Math.sqrt(probability_of_positive) * mean * sigmoid(x) * spread_factor) - 1402;
+                y[i] = Math.round (275 * Math.sqrt(probability_of_positive) * mean * sigmoid(x) * spread_factor) - 15000;
             }
         } else {
             for(int i = 0; i < n; i++) {
