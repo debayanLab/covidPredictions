@@ -85,7 +85,7 @@ class US {
     
     /**
      * returns the prediction for the total cases of Covid-19 for specified number of days
-     * @params days the number of days including and after 25/5 for which prediction is required
+     * @param days the number of days including and after 25/5 for which prediction is required
      * 
      * @return an array with the prediction for the given number of days.
      */
