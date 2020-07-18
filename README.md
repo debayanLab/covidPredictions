@@ -14,6 +14,24 @@ For running the python files, you will need to install pandas, numpy, SciPy and 
 pip install <library name>
 ```
 
+## Files
+
+* ActiveFromDeath.py, ActiveFromDeathByState.py - Python files, for curve-fitting and predicting the actual number of COVID-19 infections. To run them on updated data and parameters, change the following section in the code:
+
+```
+# SET THESE PARAMETERS ACCORDINGLY
+
+ifr = 0.41
+offset = 23
+min_death_fact = 1.5
+max_death_fact = 4
+death_fact = (max_death_fact + min_death_fact)/2
+
+data = pd.read_csv("owid-covid-data.csv") # Data Course: OWID
+india_combined = data.loc[data["iso_code"]=="IND",("date","total_cases","total_deaths")]  # For any other country, replace "IND" with respective country code
+
+```
+
 ## Miscellaneous Links
 
 National Prediction:https://www.overleaf.com/project/5ea933d883635f0001df191a
