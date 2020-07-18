@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-For running the python files, you will need to install pandas, numpy, SciPy and sklearn and seaborn libraries. You may install them via an Anacondo distribution of simply use the following in the project directory (preferrably on a virtualenv)
+For running the python files, you will need to install pandas, numpy, SciPy and sklearn and seaborn libraries. You may install them via an Anacondo distribution or simply use the following in the project directory (preferrably in a virtualenv)
 
 ```
 pip install <library name>
