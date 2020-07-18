@@ -1,6 +1,20 @@
 # covidPredictions
 
-Overleaf
+Alternative Approaches for Modelling COVID-19: High-Accuracy Low-Data Predictions
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+For running the python files, you will need to install pandas, numpy, SciPy and sklearn and seaborn libraries. You may install them via an Anacondo distribution of simply use the following in the project directory (preferrably on a virtualenv)
+
+```
+pip install <library name>
+```
+
+## Miscellaneous Links
 
 National Prediction:https://www.overleaf.com/project/5ea933d883635f0001df191a
 All training data from covid19india.org and verification data from worldometer.
