@@ -18,7 +18,7 @@ pip install <library name>
 
 * ActiveFromDeath.py, ActiveFromDeathByState.py - Python files, for curve-fitting and predicting the actual number of COVID-19 infections. To run them on updated data and parameters, change the following section in the code:
 
-```
+```python
 # SET THESE PARAMETERS ACCORDINGLY
 
 ifr = 0.41
