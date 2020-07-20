@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-class US {
+class CountryAndStatePredictions {
     static double mean = 0;
     static double x_not = 0;
     static int n = 0;
