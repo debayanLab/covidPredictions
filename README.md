@@ -37,6 +37,12 @@ india_combined = data.loc[data["iso_code"]=="IND",("date","total_cases","total_d
 double x = (cases_and_projections.size() + i - 70) / (4.65 * x_not);
 y[i] = Math.round (1180 * mean * sigmoid(x)) - 5100;
 ```
+
+* CountryAndStatePredictions.java - Java file for prediction of cases in US States; European countries like the UK, France, and Germany. To update parameters set the parameters on lines 95 and 96
+```java
+double x = (n + 0.5 * i - 70) / (x_not);
+y[i] = Math.round (9 * mean * sigmoid(x)) + 94400;
+```
  
 ## Miscellaneous Links
 
