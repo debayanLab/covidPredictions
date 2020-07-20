@@ -39,6 +39,8 @@ All training data from covid19india.org and verification data from worldometer.
 
 Google Sheets (25 US States) May 25 onwards: https://docs.google.com/spreadsheets/d/19kGvj9H35VDPCbgKrWeobHbZjOqNprcmMWCL_wjtr4E/edit?usp=sharing
 
+Google Sheets (3 European Countries) July 10 onwards: https://docs.google.com/spreadsheets/d/1miyKh4MWrgUZM75j3y1bQpSuXIaRv_SXYi2Fc_ZSQ8Q/edit?usp=sharing
+
 Google Sheets made to track CFR fluctuations (compiled till May 10th) : https://docs.google.com/spreadsheets/d/1OijyFvOldjteY_3OFgU1Rr_azDGOhm0Zk2rjbDoKvWE/edit?usp=sharing
 
 A simple back-calculation example : https://www.telegraphindia.com/india/coronavirus-outbreak-what-the-numbers-reveal/cid/1771525#.XrYWo77Qbsg.facebook
