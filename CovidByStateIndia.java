@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Arrays;
-public class CovidByState {
+public class CovidByStateIndia {
     /**
      * Converts each of line of the file which is extracted as a String into an array. 
      * @param n a line from the input file
