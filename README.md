@@ -37,13 +37,6 @@ india_combined = data.loc[data["iso_code"]=="IND",("date","total_cases","total_d
 National Prediction:https://www.overleaf.com/project/5ea933d883635f0001df191a
 All training data from covid19india.org and verification data from worldometer.
 
-
-CFR: https://www.overleaf.com/read/pfphkdmywshd
-
-
-Progression: https://www.overleaf.com/6458928194ysdvkmsjscvy
-
-
 Google Sheets (25 US States) May 25 onwards: https://docs.google.com/spreadsheets/d/19kGvj9H35VDPCbgKrWeobHbZjOqNprcmMWCL_wjtr4E/edit?usp=sharing
 
 Google Sheets made to track CFR fluctuations (compiled till May 10th) : https://docs.google.com/spreadsheets/d/1OijyFvOldjteY_3OFgU1Rr_azDGOhm0Zk2rjbDoKvWE/edit?usp=sharing
