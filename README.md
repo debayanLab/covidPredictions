@@ -32,6 +32,12 @@ india_combined = data.loc[data["iso_code"]=="IND",("date","total_cases","total_d
 
 ```
 
+* CovidByStateIndia.java - Java file for cumulative prediction of cases in Indian districts. To update parameters set the parameters on lines 313 and 314
+```java
+double x = (cases_and_projections.size() + i - 70) / (4.65 * x_not);
+y[i] = Math.round (1180 * mean * sigmoid(x)) - 5100;
+```
+ 
 ## Miscellaneous Links
 
 National Prediction:https://www.overleaf.com/project/5ea933d883635f0001df191a
