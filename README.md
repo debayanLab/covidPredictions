@@ -1,6 +1,4 @@
-# covidPredictions
-
-Alternative Approaches for Modelling COVID-19: High-Accuracy Low-Data Predictions
+# Alternative Approaches for Modelling COVID-19: High-Accuracy Low-Data Predictions
 
 Numerous models have tried to predict the spread of COVID-19.  Manyinvolve myriad assumptions and parameters which cannot be reliably calculated undercurrent conditions.  We describe machine-learning and curve-fitting based models usingfewer assumptions and readily available data
 
